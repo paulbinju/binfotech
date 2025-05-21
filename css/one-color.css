@@ -2,16 +2,16 @@
 /* CSS Document */
 
 .green {
-	background:#82b440;
+	background:#1dcdfe;
 	}
 .green_light {
-	background: rgba(130, 180, 64, 0.65);
+	background: #9ce6fa;
 	}
 .blue{
-	background:#07aaa5;
+	background:#2f455c;
 	} 
 .dark_gray {
-	background:#969696;
+	background:#2f455c;
 	}
 .we-do .do-wrap a{
 	color:#969696;
@@ -21,7 +21,7 @@
 	color:#07aaa5;
 }
 .we-do .do-wrap:hover .top, we-do .do-wrap:focus .top, .we-do .do-wrap:hover span, .we-do .do-wrap:focus span{
-	background:#07aaa5;
+	background:#1dcdfe;
 }
 
 .pricing_item.dark_gray {
@@ -35,7 +35,7 @@
 
 .pricing_item.dark_gray:hover .pricing_action{
 	border:1px solid transparent;
-	background:#07AAA5 !important;
+	background:#2f455c !important;
 }
 
 
