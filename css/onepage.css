@@ -1537,16 +1537,16 @@ ul.top-right li a:hover.instagram{
 
 /* ------------ Testinomials ------------ */
 #testinomial{
-	background:url(../images/bg-testinomial.jpg) no-repeat;
-	color:#fff;
+	background:url(../images/client.png) no-repeat;
+	color:#000;
 }
 #testinomial h2{ color:#1dcdfe; }
-#testinomial p{ color:#fff; }
+#testinomial p{ color:#000; }
 #testinomial-slider .item{
   display: block;
   width: 100%;
   height: auto;
-  color:#fff;
+  color:#000;
 }
 
 #testinomial-slider .item p {
